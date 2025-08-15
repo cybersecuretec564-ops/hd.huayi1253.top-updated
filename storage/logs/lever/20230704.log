@@ -1,0 +1,9 @@
+2023-07-04 00:06:51 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied
+2023-07-04 23:34:06 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied
+2023-07-04 23:34:33 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied
+2023-07-04 23:39:11 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied
+2023-07-04 23:41:23 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied
+2023-07-04 23:41:23 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied
+2023-07-04 23:41:45 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied
+2023-07-04 23:42:04 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied
+2023-07-04 23:42:38 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230704.log): failed to open stream: Permission denied

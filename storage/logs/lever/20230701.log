@@ -1,0 +1,2 @@
+2023-07-01 09:16:33 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230701.log): failed to open stream: Permission denied
+2023-07-01 09:31:49 File:/www/wwwroot/ws.api-huobi.cc/app/LeverTransaction.php, Line:695, Message:error_log(/www/wwwroot/ws.api-huobi.cc/storage/logs/lever1/20230701.log): failed to open stream: Permission denied

@@ -1,0 +1,10 @@
+2023-07-01 12:06:03 {"id":1688180760,"period":"1min","base-currency":"BTC","quote-currency":"USDT","open":30443,"close":33117.99985,"high":33117.99985,"low":30443,"vol":0,"amount":0}
+2023-07-01 12:06:03 {"id":1688180700,"period":"5min","base-currency":"BTC","quote-currency":"USDT","open":30430.5,"close":33117.99985,"high":33117.99985,"low":30424.67,"vol":20381.09268685,"amount":0.6696053597535463}
+2023-07-01 12:06:03 {"id":1688180400,"period":"15min","base-currency":"BTC","quote-currency":"USDT","open":30425.52,"close":33117.99985,"high":33117.99985,"low":30416.87,"vol":283192.538909,"amount":9.307052183282957}
+2023-07-01 12:06:03 {"id":1688180400,"period":"30min","base-currency":"BTC","quote-currency":"USDT","open":30425.52,"close":33117.99985,"high":33117.99985,"low":30416.87,"vol":283192.538909,"amount":9.307052183282957}
+2023-07-01 12:06:03 {"id":1688180400,"period":"60min","base-currency":"BTC","quote-currency":"USDT","open":30425.52,"close":33117.99985,"high":33117.99985,"low":30416.87,"vol":283192.538909,"amount":9.307052183282957}
+2023-07-01 12:07:04 {"id":1688180820,"period":"1min","base-currency":"BTC","quote-currency":"USDT","open":30436.31,"close":33111.31,"high":33111.31,"low":30436.31,"vol":0,"amount":0}
+2023-07-01 12:07:04 {"id":1688180700,"period":"5min","base-currency":"BTC","quote-currency":"USDT","open":30430.5,"close":33111.31,"high":33117.99985,"low":30424.67,"vol":30079.8020566,"amount":0.9882163597535463}
+2023-07-01 12:07:04 {"id":1688180400,"period":"15min","base-currency":"BTC","quote-currency":"USDT","open":30425.52,"close":33111.31,"high":33117.99985,"low":30416.87,"vol":292891.24827875,"amount":9.625663183282958}
+2023-07-01 12:07:04 {"id":1688180400,"period":"30min","base-currency":"BTC","quote-currency":"USDT","open":30425.52,"close":33111.31,"high":33117.99985,"low":30416.87,"vol":292891.24827875,"amount":9.625663183282958}
+2023-07-01 12:07:04 {"id":1688180400,"period":"60min","base-currency":"BTC","quote-currency":"USDT","open":30425.52,"close":33111.31,"high":33117.99985,"low":30416.87,"vol":292891.24827875,"amount":9.625663183282958}
